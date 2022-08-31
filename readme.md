@@ -10,3 +10,4 @@
 3.  run `youtube-dl --force-ipv4 -f bestaudio -o '%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PL8XX06eOucSytOJxzfLxK371-HapxwFQP`, but with your playlist URL
    1. `-f bestaudio` might need to be `--extract-audio ` 
 
+**Note: Q3 2022, use `you-get "I like turtles"` to do more programmatically** [link](https://you-get.org/)
